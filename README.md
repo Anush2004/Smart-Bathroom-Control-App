@@ -1,15 +1,33 @@
-# Playbook - An Android App for Smart Bathroom Control
+# An Android App for Smart Bathroom Control
 
-![alt text](./app.jpeg "App UI")
+This repository contains the Android app code for the Playbook project, which was developed as part of an IoT course's final project. The goal of the project was to create a Smart Bathroom environment where users can control various features such as lights, doors, flush, and seat movements using a mobile app. The app was created using MIT App Inventor's codebase and offers a simple and intuitive user interface design. The Arduino code used in conjunction with this app is not included in this repository.
 
-### Created as a part of IoT course final project - Team Members: Anush, Mukta, Ronak, Sriya
+## Contents
 
-#### Contents:
-- *Playbook*: Android App code
+- `Playbook`: This directory contains the code for the Android app. It includes the necessary files and resources to build and run the app.
 
-#### Brief Description of the project:
-Note: Refer to the smart-bathroom repo for more details. This is just the app code.
-The main goal of the project is to create a Smart Bathroom environment where the user is a button away from controlling the lights, doors, flush, and the seat movements.
-The app was created using the help of MIT App Inventor's codebase and allows for a simple UI interface design. Arduino code (not shown) was integrated along with this app to demonstrate a proper IoT environment.
+## Project Description
 
-All this was tested on a prototype model with appropriate sensors like ultrasonic sensor, water level sensor, and ESP32.
+The project aims to create a Smart Bathroom environment that provides convenient control over various features. The app serves as the interface for users to interact with the Smart Bathroom system. The team members, Anush, Mukta, Ronak, and Sriya, collaborated to design and implement the project. The app was developed using MIT App Inventor, which simplifies the process of creating Android apps with a visual programming interface.
+
+The Smart Bathroom system integrates Arduino-based hardware, including sensors such as ultrasonic sensor and water level sensor, along with the ESP32 module. The Arduino code, which interacts with the hardware components, is not included in this repository.
+
+![App UI](./app.jpeg)
+
+## Feedback and Contributions
+
+If you have any questions regarding the project, please feel free to contact any of the team members:
+
+- Anush Anand
+  - GitHub: [anush](https://github.com/Anush2004)
+
+- Mukta Chanda
+  - GitHub: [mukta](https://github.com/muktachanda)
+
+- Ronak Dhingra 
+  - GitHub: [ronak](https://github.com/Ronak-Dhingra)
+
+- Sriya Venepally
+  - GitHub: [sriya](https://github.com/sriyav17)
+  
+We will be glad to assist you.

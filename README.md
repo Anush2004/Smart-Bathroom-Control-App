@@ -5,6 +5,7 @@ This repository contains the Android app code for the Playbook project, which wa
 ## Contents
 
 - `Playbook`: This directory contains the code for the Android app. It includes the necessary files and resources to build and run the app.
+- `Report.pdf`: This explains the whole project with the working.
 
 ## Project Description
 

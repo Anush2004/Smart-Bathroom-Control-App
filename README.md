@@ -15,7 +15,7 @@ The Smart Bathroom system integrates Arduino-based hardware, including sensors s
 
 ![App UI](./app.jpeg)
 
-## Feedback and Contributions
+## Feedback and Questions
 
 If you have any questions regarding the project, please feel free to contact any of the team members:
 
